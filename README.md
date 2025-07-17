@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Guilherme Paiva
 
-Sou um desenvolvedor backend com 1 ano de experiência, atualmente estudando front-end e desenvolvimento de baixo nível (como C/C++, ponteiros, memória, etc).
+Sou um desenvolvedor backend com 1 ano de experiência, atualmente estudando front-end e desenvolvimento de baixo nível.
 
 ### 🚀 Stack atual
 - **Backend:** Java + Spring Boot
