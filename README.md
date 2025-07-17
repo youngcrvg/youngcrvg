@@ -12,7 +12,6 @@ Sou um desenvolvedor backend com 1 ano de experiência, atualmente estudando fro
 - Construção de APIs robustas e escaláveis
 - Sistemas distribuídos e arquitetura de microsserviços
 - Desenvolvimento de sistemas para jogos (Minecraft modding, bots, etc)
-- Criação de launchers e cheats externos (por curiosidade técnica)
 - Aprendizado contínuo em sistemas de baixo nível e segurança
 
 ### 📚 Estudando no momento
