@@ -17,7 +17,7 @@ Sou um desenvolvedor backend com 1 ano de experiência, atualmente estudando fro
 
 ### 📚 Estudando no momento
 - Front-end com **React + Next.js**
-- Otimização de desempenho e leitura/escrita de memória em C++
+- Programação em **C++ e C#** (conceitos, práticas e aplicações)
 - Arquitetura de software e boas práticas
 
 ### 🧰 Ferramentas que uso
