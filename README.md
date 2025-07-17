@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme Paiva
 
-<!--
-**youngcrvg/youngcrvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor backend com 1 ano de experiência, atualmente estudando front-end e desenvolvimento de baixo nível (como C/C++, ponteiros, memória, etc).
 
-Here are some ideas to get you started:
+### 🚀 Stack atual
+- **Backend:** Java + Spring Boot
+- **Banco de Dados:** PostgreSQL & MongoDB
+- **Ambiente:** Docker, Linux
+- **Versionamento:** Git + GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Projetos e Interesses
+- Construção de APIs robustas e escaláveis
+- Sistemas distribuídos e arquitetura de microsserviços
+- Desenvolvimento de sistemas para jogos (Minecraft modding, bots, etc)
+- Criação de launchers e cheats externos (por curiosidade técnica)
+- Aprendizado contínuo em sistemas de baixo nível e segurança
+
+### 📚 Estudando no momento
+- Front-end com **React + Next.js**
+- Otimização de desempenho e leitura/escrita de memória em C++
+- Arquitetura de software e boas práticas
+
+### 🧰 Ferramentas que uso
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+---
+
+> 💬 Sempre aberto a trocas de ideia, collabs e freelas.
+
